@@ -39,13 +39,13 @@ import {
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyD9djE8NgR_BTKN7jDr40qKQ8v5nzcuN3I",
-  authDomain: "driptokstore-e3a7b.firebaseapp.com",
-  projectId: "driptokstore-e3a7b",
-  storageBucket: "driptokstore-e3a7b.firebasestorage.app",
-  messagingSenderId: "859535990365",
-  appId: "1:859535990365:web:900b9b88bacc1402b9f7b4",
-  measurementId: "G-8BZBCCBJSK"
+  apiKey: "AIzaSyAM-WcmdpxJmfh2-AiYRaMF9x7csD-tsIw",
+  authDomain: "studiom-60fcb.firebaseapp.com",
+  projectId: "studiom-60fcb",
+  storageBucket: "studiom-60fcb.firebasestorage.app",
+  messagingSenderId: "790702404721",
+  appId: "1:790702404721:web:3ca6f2ebaf7e41566d97d0",
+  measurementId: "G-WRXXV25731"
 };
 
 // Initialize Firebase
@@ -56,7 +56,7 @@ const auth = getAuth(app);
 const db = getFirestore(app);
 
 // ID del administrador maestro (se almacena como campo en Firestore o UID definido)
-const ADMIN_EMAIL = "elohims480@gmail.com";
+const ADMIN_EMAIL = "studiom123454321@gmail.com";
 /* ==========================================================================
    MÓDULO: AUTENTICACIÓN
    ========================================================================== */
